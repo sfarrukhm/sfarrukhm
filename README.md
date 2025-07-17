@@ -23,7 +23,7 @@ I'm a Machine Learning Engineer driven by curiosity and precision. I specialize 
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🔗 Smart ML Ops Pipeline](https://github.com/yourhandle/mlops-pipeline) | End-to-end ML workflow with automated experiment tracking and deployment | `MLflow`, `FastAPI`, `Docker`, `GitHub Actions` |
+| [🔗 Knowledge Distillation for Image Classification]([https://github.com/yourhandle/mlops-pipeline](https://github.com/sfarrukhm/making_models_efficient/tree/main/intel-image-classification)) | a knowledge distillation pipeline where a large VisionEagle-based teacher model guides a lightweight CNN student for image classification on the Intel Image Classification Dataset. | `MLflow`, `FastAPI`, `Docker`, `GitHub Actions` |
 | [🔗 Fine-tuned Vision Transformers](https://github.com/yourhandle/vit-finetune) | Custom ViT training with optimized adapters and real-world image datasets | `PyTorch`, `JAX`, `LoRA`, `Optuna` |
 | [🔗 Multimodal Prompt Toolkit](https://github.com/yourhandle/multimodal-prompting) | Toolkit for combining text and image inputs in LLM workflows | `BLIP`, `CLIP`, `Transformers` |
 
