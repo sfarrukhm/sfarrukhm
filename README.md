@@ -1,10 +1,9 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Sayyed Farrukh
 
 I'm a Machine Learning Engineer driven by curiosity and precision. I specialize in building scalable, interpretable AI systems — particularly in domains like **Model Fine-Tuning**, **Multimodal Integration**, and **ML Ops Automation**.
 
-🌐 [Portfolio Website](https://your-site.com)  
-📄 [Resume](https://your-resume-link.com)  
-📬 [Email Me](mailto:your.email@example.com)
+🌐 [Portfolio Website](https://sfarrukhm.github.io/)
+📬 [Email Me](mailto:sfarrukhm@gmail.com)
 
 ---
 
