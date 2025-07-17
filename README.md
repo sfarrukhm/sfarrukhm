@@ -19,10 +19,11 @@ I'm a Machine Learning Engineer driven by curiosity and precision. I specialize 
 
 ---
 
-## 🚀 Featured Projects
+## ✨ Featured Projects
 
-
-**[🔍 Knowledge Distillation for Image Classification]**([https://github.com/yourhandle/mlops-pipeline](https://github.com/sfarrukhm/making_models_efficient/tree/main/intel-image-classification)) | a knowledge distillation pipeline where a large VisionEagle-based teacher model guides a lightweight CNN student for image classification on the Intel Image Classification Dataset.
+- 🔍 **[🧠 Knowledge Distillation for Intel Image Classification](https://github.com/yourhandle/multimodal-prompting)**  
+  A knowledge distillation pipeline where a large VisionEagle-based teacher model guides a lightweight CNN student for image classification on the Intel Image Classification Dataset
+---
 
 ## 🛠️ Tech Stack
 
