@@ -2,8 +2,6 @@
 
 ML Engineer building production-ready AI systems with a focus on efficiency, scalability, and real-world deployment. Passionate about designing systems that are both interpretable and resource-conscious, I work end-to-end: from data preprocessing and model development to deployment on cloud or edge devices.
 
-![AI Banner](assets/ai_banner.gif) <!-- Replace with your own banner or GIF -->
-
 ---
 
 ## 🔭 Currently Working On
@@ -55,13 +53,11 @@ ML Engineer building production-ready AI systems with a focus on efficiency, sca
 - Edge deployable, cost-effective AI
 
 ### [Sentiment-MLOps](https://github.com/sfarrukhm/sentiment-mlops)
-![API Demo](assets/sentiment_api.gif)
 - Production DistilBERT inference API on AWS EC2
 - Quantization (50% size/latency reduction)
 - CI/CD with GitHub Actions
 
 ### [Model-Compression](https://github.com/sfarrukhm/making_models_efficient
-![Compression Graph](assets/compression_speedup.gif)
 - Knowledge distillation pipeline
 - 99.6% parameter reduction (45M → 180K)
 - 4× inference speedup
