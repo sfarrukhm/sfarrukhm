@@ -57,7 +57,7 @@ ML Engineer building production-ready AI systems with a focus on efficiency, sca
 - Quantization (50% size/latency reduction)
 - CI/CD with GitHub Actions
 
-### [Model-Compression](https://github.com/sfarrukhm/making_models_efficient
+### [Model-Compression](https://github.com/sfarrukhm/making_models_efficient)
 - Knowledge distillation pipeline
 - 99.6% parameter reduction (45M → 180K)
 - 4× inference speedup
