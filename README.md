@@ -74,4 +74,4 @@ ML Engineer building production-ready deep learning systems. I focus on **effici
 
 ---
 
-💡 **Open to ML engineering opportunities** | 📍 Bahawalpur, Pakistan
+💡 **Open to ML engineering opportunities** 
