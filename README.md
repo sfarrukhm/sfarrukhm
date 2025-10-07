@@ -1,6 +1,6 @@
 # Hi, I'm Farrukh 👋
 
-ML Engineer building production-ready deep learning systems. I focus on **efficient AI, model optimization, and deployment** for real-world applications.
+ML Engineer building production-ready AI systems with a focus on efficiency, scalability, and real-world deployment. I specialize in turning complex deep learning models into optimized pipelines. Passionate about designing systems that are both interpretable and resource-conscious, I work end-to-end: from data preprocessing and model development to deployment on cloud or edge devices.
 
 ![AI Banner](assets/ai_banner.gif) <!-- Replace with your own banner or GIF -->
 
