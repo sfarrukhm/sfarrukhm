@@ -77,7 +77,7 @@ End-to-end pipeline for model compression and knowledge distillation.
 | [**Model-Compression**](https://github.com/sfarrukhm/model-compression) | Knowledge distillation and quantization pipeline for compact deep learning models | PyTorch • ONNX • NumPy | 99.6% parameter reduction (45M → 180K) • 4× faster inference |
 | **VAE-LSTM-CFD** | Temporal sequence modeling for fluid dynamics simulations | PyTorch • CUDA | Custom VAE-LSTM hybrid • 40% faster preprocessing • optimized GPU training |
 ---
-
+## 📫 Connect With Me
 <p align="center">
 📧 <a href="mailto:smfarrukhm@gmail.com">smfarrukhm@gmail.com</a> • 
 💼 <a href="https://linkedin.com/in/sfarrukhm">LinkedIn</a>  
@@ -85,6 +85,6 @@ End-to-end pipeline for model compression and knowledge distillation.
 💡 <b>Open to ML engineering opportunities</b>
 </p>
 
----
+
 
 
