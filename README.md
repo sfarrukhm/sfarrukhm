@@ -51,22 +51,6 @@ I’ve also worked on model compression, taking a ResNet-based model from 45M pa
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 
-## 🚀 Featured Projects
-
-Some of the systems and experiments I’ve built recently:
-
-### [PakIndustry-4.0](https://github.com/sfarrukhm/pakindustry-4.0)
-An integrated AI framework for manufacturing — combining computer vision, predictive maintenance, and demand forecasting.  
-**Impact:** 99.6% defect detection • Predictive RUL (MAE = 13.4) • Edge-deployable and cost-effective.
-
-### [Sentiment-MLOps](https://github.com/sfarrukhm/sentiment-mlops)
-Production-grade DistilBERT inference API on AWS EC2.  
-**Impact:** Quantization cut latency and model size by 50% • CI/CD via GitHub Actions for seamless updates.
-
-### [Model-Compression](https://github.com/sfarrukhm/model-compression)
-End-to-end pipeline for model compression and knowledge distillation.  
-**Impact:** Reduced ResNet parameters from 45M → 180K (99.6% smaller) with 94% accuracy retention • 4× faster inference.
-
 ---
 
 ## 📘 Project Portfolio (Detailed Overview)
