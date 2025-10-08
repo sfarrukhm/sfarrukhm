@@ -1,14 +1,22 @@
-# Hi, I'm Farrukh 👋
+# Hey there 👋
 
-ML Engineer building production-ready AI systems with a focus on efficiency, scalability, and real-world deployment. Passionate about designing systems that are both interpretable and resource-conscious, I work end-to-end: from data preprocessing and model development to deployment on cloud or edge devices.
+I'm Farrukh, an ML engineer who enjoys building production grade ML systems and squeezing models into places they probably shouldn't fit.
 
----
+I work primarily with PyTorch, TensorFlow, and Hugging Face Transformers, focusing on model optimization, deployment, and efficient AI systems. My background is in mechanical engineering, but I’ve spent the past year designing and deploying ML pipelines—turns out optimizing fluid flow equations isn’t that different from optimizing neural networks.
 
-## 🔭 Currently Working On
-- **Production ML APIs** – Deploying DistilBERT inference on AWS with FastAPI, quantization, and CI/CD
-- **Efficient AI Research** – Model compression and acceleration pipelines for deep learning
+## What I'm working on
 
----
+Right now, I’m focusing on projects that make ML systems leaner and easier to ship:
+
+Production Inference API – Built a DistilBERT service on AWS EC2 using FastAPI. Quantized the model to reduce size and latency by half, added CI/CD with GitHub Actions, and optimized request handling for stability under load. The goal is to understand what it takes to keep ML systems reliable in production.
+
+Model Efficiency Research – Experimenting with model compression and quantization pipelines for edge and low-latency deployments. I’m especially interested in the trade-offs between model size, speed, and interpretability.
+
+## Recent work
+
+I was part of the UraanAI Techathon 2025, where our team built an integrated AI framework for manufacturing—computer vision for defect detection (99.6% accuracy), BiLSTM-GRU for predictive maintenance, and LightGBM for demand forecasting. The focus was deployment under real industrial constraints—limited compute, bandwidth, and cost.
+
+I’ve also worked on model compression, taking a ResNet-based model from 45M parameters down to 180K (99.6% smaller) through knowledge distillation while keeping 94% accuracy. That 4× speedup made real-time inference viable on resource-limited hardware.
 
 ## 🛠️ Tech Stack
 **ML & Deep Learning**  
@@ -42,7 +50,6 @@ ML Engineer building production-ready AI systems with a focus on efficiency, sca
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
----
 
 ## 🚀 Featured Projects
 
@@ -62,7 +69,6 @@ ML Engineer building production-ready AI systems with a focus on efficiency, sca
 - 99.6% parameter reduction (45M → 180K)
 - 4× inference speedup
 
----
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sfarrukhm)
