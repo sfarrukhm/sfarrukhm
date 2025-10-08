@@ -76,11 +76,15 @@ End-to-end pipeline for model compression and knowledge distillation.
 | [**Sentiment-MLOps**](https://github.com/sfarrukhm/sentiment-mlops) | Production-ready DistilBERT inference API on AWS | Hugging Face • FastAPI • Docker • AWS • GitHub Actions | Quantized model (−50% size/latency) • CI/CD pipeline |
 | [**Model-Compression**](https://github.com/sfarrukhm/model-compression) | Knowledge distillation and quantization pipeline for compact deep learning models | PyTorch • ONNX • NumPy | 99.6% parameter reduction (45M → 180K) • 4× faster inference |
 | **VAE-LSTM-CFD** | Temporal sequence modeling for fluid dynamics simulations | PyTorch • CUDA | Custom VAE-LSTM hybrid • 40% faster preprocessing • optimized GPU training |
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sfarrukhm)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:smfarrukhm@gmail.com)
+---
+
+<p align="center">
+📧 <a href="mailto:smfarrukhm@gmail.com">smfarrukhm@gmail.com</a> • 
+💼 <a href="https://linkedin.com/in/sfarrukhm">LinkedIn</a>  
+<br>
+💡 <b>Open to ML engineering opportunities</b>
+</p>
 
 ---
 
-💡 **Open to ML engineering opportunities**
 
