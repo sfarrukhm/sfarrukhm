@@ -53,33 +53,34 @@ I’ve also worked on model compression, taking a ResNet-based model from 45M pa
 
 ## 🚀 Featured Projects
 
+Some of the systems and experiments I’ve built recently:
+
 ### [PakIndustry-4.0](https://github.com/sfarrukhm/pakindustry-4.0)
-- 99.6% defect detection
-- Predictive maintenance (MAE 13.4)
-- Streamlit dashboards for real-time monitoring
-- Edge deployable, cost-effective AI
+An integrated AI framework for manufacturing — combining computer vision, predictive maintenance, and demand forecasting.  
+**Impact:** 99.6% defect detection • Predictive RUL (MAE = 13.4) • Edge-deployable and cost-effective.
 
 ### [Sentiment-MLOps](https://github.com/sfarrukhm/sentiment-mlops)
-- Production DistilBERT inference API on AWS EC2
-- Quantization (50% size/latency reduction)
-- CI/CD with GitHub Actions
+Production-grade DistilBERT inference API on AWS EC2.  
+**Impact:** Quantization cut latency and model size by 50% • CI/CD via GitHub Actions for seamless updates.
 
-### [Model-Compression](https://github.com/sfarrukhm/making_models_efficient)
-- Knowledge distillation pipeline
-- 99.6% parameter reduction (45M → 180K)
-- 4× inference speedup
+### [Model-Compression](https://github.com/sfarrukhm/model-compression)
+End-to-end pipeline for model compression and knowledge distillation.  
+**Impact:** Reduced ResNet parameters from 45M → 180K (99.6% smaller) with 94% accuracy retention • 4× faster inference.
 
+---
 
+## 📘 Project Portfolio (Detailed Overview)
+| Project | Description | Tech Stack | Highlights |
+| -------- | ------------ | ----------- | ----------- |
+| [**UraanAI-Manufacturing**](https://github.com/sfarrukhm/uraanai-manufacturing) | Integrated AI system for manufacturing — computer vision, predictive maintenance, and demand forecasting | PyTorch • LightGBM • FastAPI | 99.6% defect detection • Predictive RUL (MAE = 13.4) • Edge deployment |
+| [**Sentiment-MLOps**](https://github.com/sfarrukhm/sentiment-mlops) | Production-ready DistilBERT inference API on AWS | Hugging Face • FastAPI • Docker • AWS • GitHub Actions | Quantized model (−50% size/latency) • CI/CD pipeline |
+| [**Model-Compression**](https://github.com/sfarrukhm/model-compression) | Knowledge distillation and quantization pipeline for compact deep learning models | PyTorch • ONNX • NumPy | 99.6% parameter reduction (45M → 180K) • 4× faster inference |
+| **VAE-LSTM-CFD** | Temporal sequence modeling for fluid dynamics simulations | PyTorch • CUDA | Custom VAE-LSTM hybrid • 40% faster preprocessing • optimized GPU training |
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sfarrukhm)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:smfarrukhm@gmail.com)
 
 ---
 
-💡 **Open to ML engineering opportunities** 
-| Project                                                                         | Description                                                                                              | Tech Stack                                             | Highlights                                                                 |
-| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------- |
-| [**UraanAI-Manufacturing**](https://github.com/sfarrukhm/uraanai-manufacturing) | Integrated AI system for manufacturing — computer vision, predictive maintenance, and demand forecasting | PyTorch • LightGBM • FastAPI                           | 99.6% defect detection • Predictive RUL (MAE = 13.4) • Edge deployment     |
-| [**Sentiment-MLOps**](https://github.com/sfarrukhm/sentiment-mlops)             | Production-ready DistilBERT inference API on AWS                                                         | Hugging Face • FastAPI • Docker • AWS • GitHub Actions | Quantized model (-50% size/latency) • CI/CD pipeline                       |
-| [**Model-Compression**](https://github.com/sfarrukhm/model-compression)         | Knowledge distillation and quantization pipeline for compact deep learning models                        | PyTorch • ONNX • NumPy                                 | 99.6% parameter reduction (45M → 180K) • 4× faster inference               |
-| **VAE-LSTM-CFD**                                                                | Temporal sequence modeling for fluid dynamics simulations                                                | PyTorch • CUDA                                         | Custom VAE-LSTM hybrid • 40% faster preprocessing • optimized GPU training |
+💡 **Open to ML engineering opportunities**
+
