@@ -6,11 +6,12 @@ I work primarily with PyTorch, TensorFlow, and Hugging Face Transformers, focusi
 
 ## What I'm working on
 
-Right now, I’m focusing on projects that make ML systems leaner and easier to ship:
+Right now, I’m focusing on projects that make ML systems leaner and easier to ship.
 
-Production Inference API – Built a DistilBERT service on AWS EC2 using FastAPI. Quantized the model to reduce size and latency by half, added CI/CD with GitHub Actions, and optimized request handling for stability under load. The goal is to understand what it takes to keep ML systems reliable in production.
+Currently building a data-centric MLOps [pipeline](https://github.com/sfarrukhm/data-centric-mlops-pipeline) in public — starting from raw NYC taxi data and gradually shaping it into a production-grade ML workflow.
 
-Model Efficiency Research – Experimenting with model compression and quantization pipelines for edge and low-latency deployments. I’m especially interested in the trade-offs between model size, speed, and interpretability.
+Production Inference API – Built a DistilBERT service on AWS EC2 using FastAPI...
+
 
 ## Recent work
 
@@ -52,21 +53,15 @@ I’ve also worked on model compression, taking a ResNet-based model from 45M pa
 
 
 ---
+## 📘 Projects Portfolio (Detailed Overview)
 
-## 📘 Project Portfolio (Detailed Overview)
 | Project | Description | Tech Stack | Highlights |
 | -------- | ------------ | ----------- | ----------- |
-## 📘 Project Portfolio (Detailed Overview)
-| Project | Description | Tech Stack | Highlights |
-| -------- | ------------ | ----------- | ----------- |
-| [**Data-Centric-MLOps-Pipeline**](https://github.com/sfarrukhm/data-centric-mlops-pipeline) | Active project — building an end-to-end data-first MLOps pipeline around NYC Green Taxi data | FastAPI • Docker • GitHub Actions • Pandas • DVC (upcoming) | Learning & building in public |
-| [**PakIndustry-4.0**](https://github.com/sfarrukhm/pakindustry-4.0) | Integrated AI system for manufacturing — computer vision, predictive maintenance, and demand forecasting | PyTorch • LightGBM • FastAPI | 99.6% defect detection • Predictive RUL (MAE = 13.4) • Edge deployment |
-| [**Sentiment-MLOps**](https://github.com/sfarrukhm/sentiment-mlops) | Production-ready DistilBERT inference API on AWS | Hugging Face • FastAPI • Docker • AWS • GitHub Actions | Quantized model (−50% size/latency) • CI/CD pipeline |
-| [**Model-Compression**](https://github.com/sfarrukhm/making_models_efficient) | Knowledge distillation and quantization pipeline for compact deep learning models | PyTorch • ONNX • NumPy | 99.6% parameter reduction (45M → 180K) • 4× faster inference |
+| [**Data-Centric-MLOps-Pipeline**](https://github.com/sfarrukhm/data-centric-mlops-pipeline) | **Active project** — building an end-to-end, data-first MLOps pipeline using NYC Green Taxi data. Focused on data ingestion, validation, and reproducible pipelines. | FastAPI • Docker • GitHub Actions • Pandas • DVC *(upcoming)* | Learning and building in public |
+| [**PakIndustry-4.0**](https://github.com/sfarrukhm/pakindustry-4.0) | Integrated AI system for manufacturing — computer vision for defects, predictive maintenance, and demand forecasting. | PyTorch • LightGBM • FastAPI | 99.6% defect detection • Predictive RUL (MAE = 13.4) • Edge deployment |
+| [**Sentiment-MLOps**](https://github.com/sfarrukhm/sentiment-mlops) | Production-ready DistilBERT inference API deployed on AWS with CI/CD automation. | Hugging Face • FastAPI • Docker • AWS • GitHub Actions | Quantized model (−50% size / latency) • End-to-end deployment pipeline |
+| [**Model-Compression**](https://github.com/sfarrukhm/making_models_efficient) | Knowledge distillation and quantization pipeline for compact, high-performance models. | PyTorch • ONNX • NumPy | 99.6% parameter reduction (45M → 180K) • 4× faster inference |
 
-| [**PakIndustry-4.0**](https://github.com/sfarrukhm/pakindustry-4.0) | Integrated AI system for manufacturing — computer vision, predictive maintenance, and demand forecasting | PyTorch • LightGBM • FastAPI | 99.6% defect detection • Predictive RUL (MAE = 13.4) • Edge deployment |
-| [**Sentiment-MLOps**](https://github.com/sfarrukhm/sentiment-mlops) | Production-ready DistilBERT inference API on AWS | Hugging Face • FastAPI • Docker • AWS • GitHub Actions | Quantized model (−50% size/latency) • CI/CD pipeline |
-| [**Model-Compression**](https://github.com/sfarrukhm/making_models_efficient) | Knowledge distillation and quantization pipeline for compact deep learning models | PyTorch • ONNX • NumPy | 99.6% parameter reduction (45M → 180K) • 4× faster inference |
 ---
 ## 📫 Connect With Me
 <p align="center">
