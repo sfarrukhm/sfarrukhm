@@ -56,6 +56,14 @@ I’ve also worked on model compression, taking a ResNet-based model from 45M pa
 ## 📘 Project Portfolio (Detailed Overview)
 | Project | Description | Tech Stack | Highlights |
 | -------- | ------------ | ----------- | ----------- |
+## 📘 Project Portfolio (Detailed Overview)
+| Project | Description | Tech Stack | Highlights |
+| -------- | ------------ | ----------- | ----------- |
+| [**Data-Centric-MLOps-Pipeline**](https://github.com/sfarrukhm/data-centric-mlops-pipeline) | Active project — building an end-to-end data-first MLOps pipeline around NYC Green Taxi data | FastAPI • Docker • GitHub Actions • Pandas • DVC (upcoming) | Learning & building in public |
+| [**PakIndustry-4.0**](https://github.com/sfarrukhm/pakindustry-4.0) | Integrated AI system for manufacturing — computer vision, predictive maintenance, and demand forecasting | PyTorch • LightGBM • FastAPI | 99.6% defect detection • Predictive RUL (MAE = 13.4) • Edge deployment |
+| [**Sentiment-MLOps**](https://github.com/sfarrukhm/sentiment-mlops) | Production-ready DistilBERT inference API on AWS | Hugging Face • FastAPI • Docker • AWS • GitHub Actions | Quantized model (−50% size/latency) • CI/CD pipeline |
+| [**Model-Compression**](https://github.com/sfarrukhm/making_models_efficient) | Knowledge distillation and quantization pipeline for compact deep learning models | PyTorch • ONNX • NumPy | 99.6% parameter reduction (45M → 180K) • 4× faster inference |
+
 | [**PakIndustry-4.0**](https://github.com/sfarrukhm/pakindustry-4.0) | Integrated AI system for manufacturing — computer vision, predictive maintenance, and demand forecasting | PyTorch • LightGBM • FastAPI | 99.6% defect detection • Predictive RUL (MAE = 13.4) • Edge deployment |
 | [**Sentiment-MLOps**](https://github.com/sfarrukhm/sentiment-mlops) | Production-ready DistilBERT inference API on AWS | Hugging Face • FastAPI • Docker • AWS • GitHub Actions | Quantized model (−50% size/latency) • CI/CD pipeline |
 | [**Model-Compression**](https://github.com/sfarrukhm/making_models_efficient) | Knowledge distillation and quantization pipeline for compact deep learning models | PyTorch • ONNX • NumPy | 99.6% parameter reduction (45M → 180K) • 4× faster inference |
